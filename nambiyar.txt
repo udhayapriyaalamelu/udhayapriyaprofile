@@ -1,0 +1,129 @@
+import java.io.*;
+import  java.util.*;
+
+// Read only region start
+class UserMainCode
+{
+
+	public int nnGenerator(String input1){
+		// Read only region end
+		// Write code here...
+	 String str="";
+		int sum=0;
+		char[] ch=input1.toCharArray();
+		int k=Character.getNumericValue(ch[0]);
+		for(int i=0;i<input1.length();i++)
+		{
+			int n=Character.getNumericValue(ch[i]);
+				sum+=n;
+			if(k%2==0)
+			{
+				if(sum%2!=0||i==ch.length-1)
+				{
+					str+=sum;
+					sum=0;
+						if(i<ch.length-1)
+					k=Character.getNumericValue(ch[i+1]);
+				}
+			}
+			else {
+				if(sum%2==0|| i==ch.length-1)
+				{
+					str+=sum;
+					sum=0;
+						if(i<ch.length-1)
+					k=Character.getNumericValue(ch[i+1]);
+				}
+			}	
+		}
+		return Integer.parseInt(str);
+}}
+	-------------------------------robot --------------
+import java.io.*;
+import  java.util.*;
+
+// Read only region start
+class UserMainCode
+{
+
+	public String moveRobot(int input1,int input2,String input3,String input4){
+		// Read only region end
+		// Write code here...
+		String[] cp=input3.split("-");
+		String[] po=input4.split(" ");
+		String d="NESWNE";
+		char cd=cp[2].charAt(0);
+		int ind=0;
+		if(cd=='N')
+			ind=d.lastIndexOf('N');
+		else
+			ind=d.indexOf(cd);
+		int x=Integer.parseInt(cp[0]);
+		int y=Integer.parseInt(cp[1]);
+		boolean flag=false;
+		for(int i=0;i<po.length;i++)
+		{
+			if(po[i].equals("L"))
+			{
+				cd=d.charAt(ind-1);
+				if(cd=='N')
+					ind=d.lastIndexOf('N');
+				else
+			      ind=d.indexOf(cd);
+
+			}
+			if(po[i].equals("R"))
+			{
+				cd=d.charAt(ind+1);
+				if(cd=='N')
+					ind=d.lastIndexOf('N');
+				else
+			      ind=d.indexOf(cd);
+
+			}
+			if(po[i].equals("M"))
+			{
+				if(cd=='E')
+				{
+					x++;
+					if(x>input1){
+						x-=1;
+						flag=true;
+						break;
+					}
+				}
+					if(cd=='W')
+				{
+					x--;
+					if(x<0){
+						x+=1;
+						flag=true;
+						break;
+					}
+				}
+					if(cd=='N')
+				{
+					y++;
+					if(y>input2){
+						y-=1;
+						flag=true;
+						break;
+					}
+				}
+					if(cd=='S')
+				{
+					y--;
+					if(y<0){
+						y+=1;
+						flag=true;
+						break;
+					}
+				}
+			}	
+		}			
+		if(!flag)
+			return x+"-"+y+"-"+cd;
+		else
+			return x+"-"+y+"-"+cd+"-ER";
+	}
+}

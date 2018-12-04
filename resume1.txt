@@ -1,0 +1,138 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="resume1.css">
+<title>RESUME</title>
+</head>
+<body>
+<h1 align="center"style="color:#0000ff">RESUME</h1><hr/>
+<p align="center" style="font-size:160%";>
+<strong> Name </strong>       :M.udhayapriya<br>
+<strong> Contact </strong>   :9944195655<br>
+<strong>Address </strong>  :574,Kalaimagal Compound 1st Street ThattanThottan,Tirupur-641604<br>
+<strong>Email Id </strong> :<span style="color:#ff0000">udhayapriyamurugan@gmail.com</span><hr/>
+</p>
+
+<h2 style="color:#0000ff">OBJECTIVE:</h2>
+<p style="font-size:160%";>Obtain a position that will enable me to use my strong organizational skills,educational background,and ability to work well with people.
+</p>
+
+<div><h2 style="color:#0000ff">EDUCATIONAL QUALIFICATION:<h2></div>
+
+<table style="width:70%">
+<tr>
+  <th>QUALIFICATION</th>
+  <th>INSTITUTION</th>
+  <th>BOARD</th>
+  <th>PASSING YEAR</th>
+  </tr>
+
+<tr>
+
+ <td>B.E.,CSE</td>
+ <td>K.S.R COLLEGE OF ENGINEERING</td>
+ <td>ANNA UNIVERSITY(AUTONOMOUS)</td>
+ <td>2015-2019</td>
+</tr>
+
+<tr>
+
+ <td>12th</td>
+ <td>SASURIE VIDHYA BHAVAN TIRUPUR</td>
+ <td>STATEBOARD</td>
+ <td>2015</td>
+</tr>
+
+<tr>
+ <td>10th</td>
+ <td>JAIVABAI GIRLS HR SECONADARY TIRUPUR</td>
+ <td>STATEBOARD</td>
+ <td>2013</td>
+</tr>
+</table>
+
+<h2 style="color:#0000ff">CO CURRICULAR:</h2>
+<p style="font-size:150%";>
+<ul>
+<li>Presented a paper in "BLUE BRAIN TECHNOLOGY" held at Nandha College Of Engineering,Perundurai.<br></li>
+<li>Participated a "Code Chef" and won <mark>Second Prize</mark> conducted at SSM College Of Engineering,Erode.<br></li>
+<li>Participated a "Media Manic" and won <mark>Third Prize</mark> conducted at Vidhya Vikas College Of Engineering,Tiruchengode.</li>
+</ul></p>
+
+<h2 style="color:#0000ff">SKILL ENHANCEMENT:</h2>
+<p style="font-size:150%";>
+<ul>
+<li>Participated in ‘NewIndia Student Championship 2018’conducted by ICT Academy<br></li>
+<li>Participated in Code Challenge 2017 conducted by KSR Educational Institutions</li>
+</ul></p>
+
+<h2 style="color:#0000ff">ONLINE CERTIFICATION:</h2>
+<p style="font-size:150%";>
+<ul>
+<li>Completed ’NPTEL Online Certification’ Course in Introduction To Modern
+Application Development with 57% on Jul-Sep2017.</li></ul>
+</p>
+
+<h2 style="color:#0000ff">AREA OF SPECIALIZATION:</h2>
+<p style="font-size:150%";>
+<ul>
+<li>Core Java.<br></li>
+<li>Web Development.<br></li>
+<li>Software Development.</li>
+</ul></p>
+
+<h2 style="color:#0000ff">PROGRAMMING LANGUAGES:</h2>
+<p style="font-size:150%";>
+<ul>
+<li>c and c++ programming.<br></li>
+<li>Core Java.<br></li>
+<li>HTML,CSS,Basics Of JS.</li>
+</ul></p>
+
+<h2 style="color:#0000ff">E-LEARNING:</h2>
+<p style="font-size:150%";>
+<ul>
+<li>CodingBat : https://codingbat.com/done?user=udhayapriyamurugan@gmail.com&
+tag=4959038389<br></li>
+<li>SoloLearn : https://www.sololearn.com/Profile/7381006/HTML<br></li>
+<li>GUVI        : https://www.guvi.in/udhayapriyamurugan04</li>
+</ul></p>
+
+<h2 style="color:#0000ff">UNDERGONE TRAINING:</h2>
+<p style="font-size:150%";>
+<ul>
+<li>Undergoing Training Project Readiness Programme(PRP) By wipro.</li>
+</ul></p>
+
+<h2 style="color:#0000ff">MINI PROJECTS:</h2>
+<p style="font-size:150%";>
+<ul>
+<li>Title 1         :Electricity Bill Calculator<br>
+    Description     :project based on the calculation of electricity bill for domestic and
+                     commercial purpose.<br>
+    Technology Used :Java1.7</li>
+<li>Title 2         :Library Management System<br>
+    Description     :project based on maintaining book details from library.<br>
+    Technology Used :Ms access&database</li>
+</ul></p>
+
+<h2 style="color:#0000ff">HOBBIES:</h2>
+<p style="font-size:150%";>
+<ul>
+<li>Listening Music.<br></li>
+<li>Solving Puzzles.</li>
+</ul></p>
+
+<h2 style="color:#0000ff">PERSONAL DETAILS:</h2>
+<p style="font-size:150%";>
+<ul>
+<li>Father's Name  :MR.V.Murugan<br></li>
+<li>Mother's Name  :MRS.M.Alamelu<br></li>
+<li>Date Of Birth  :01-08-1997<br></li>
+<li>Nationality    :Indian<br></li>
+<li>Languages Known:English,Tamil<br></li>
+<li>Key Competency :Positive Thinker,Team Player</li>
+</ul></p>
+
+</body>
+</html>  

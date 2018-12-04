@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="about.css">
+</head>
+<body>
+<h2 align="center" style="color:#0000ff"><strong><i><h1>About Me</h1></i></strong></h2>
+<h2><center><p align="center" style="font-size:160%";><h3>hello world!...</h3></p></center></h2>
+<p align="center" style="font-size:180%";><ul type="square">
+<li><h1>I consider myself a cheerful and optimist girl:i usally have a positive attitude facing life</h1><br></li>
+<li><h1>I am polite and attentive with everybody</h1><br></li>
+<li><h1>I love helping people who need it owing to iam an affectionate person</h1></li>
+</ul>
+</p>
+<marquee behavior="scroll" direction="left">
+<img src="happy.gif" alt="happy smile" width="70" height="75">
+</marquee>
+
+</body>
+</html>

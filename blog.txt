@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="blog.css">
+<title>Blog</title>
+<body>
+<h1 align="center" style="color:#0000ff"><strong><i>Blog</i></strong></h1>
+<h1 align="center" style="color:#0000ff"><b>Ctrl+Alt+Del</b></h1>
+<p align="center" style="font-size:160%";>
+<dl type="disc">
+<dt><h1 align="center" >Ctrl</h1></dt>
+  <dd><h2 align="center" style="color:#ffd700">control yourself</h2></dd><br>
+<dt><h1 align="center">Alt</h1></dt>
+  <dd><h2 align="center" style="color:#ffd700">look for an alternate solution</h2></dd><br>
+<dt><h1 align="center">Del</h1></dt>
+  <dd><h2 align="center" style="color:#ffd700">delete the solution that hurts you</h2></dd>
+</dl>
+</p>
+</body>
+</head>
+</html>
